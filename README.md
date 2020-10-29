@@ -8,4 +8,4 @@ Recommender System is implemented with TensorRec framework.
 Not included: MongoDB database storing the necessary data.
 
 ![alt text](https://github.com/akanellop/MOOC-Alike-WebPlatform-With-Courses-Recommender-System
-/blob/main/systemcontextfig.png?raw=true)
+/main/systemcontextfig.png?raw=true)
