@@ -8,3 +8,4 @@ Recommender System is implemented with TensorRec framework.
 Not included: MongoDB database storing the necessary data.
 
 ![System Context](https://postimg.cc/pyww4VV7)
+![ScreenShot](/screenshots/latest.png)
